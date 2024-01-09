@@ -1,6 +1,6 @@
 # Lexscript
 Strongly and static typed language based on python, is under development.
-At the moment it's made with python, perhabs in the future the code will be migrated at javascript.
+At the moment it's made with python, perhabs in the future the code will be migrated at C.
 
 # Example of Code
 Code:
